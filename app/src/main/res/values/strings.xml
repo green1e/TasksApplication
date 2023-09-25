@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Frnd Tasks App</string>
+    <string name="title_tasks">Tasks</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="date_format">%1s %2s %3s</string>
+    <string name="tasks_">Tasks   \u2022   %s</string>
+    <string name="done">DONE</string>
+    <string name="no_tasks_added">No Tasks Added</string>
+    <string name="new_task">New Task</string>
+    <string name="save">Save</string>
+    <string name="sun">Sun</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+</resources>
